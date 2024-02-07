@@ -1,0 +1,20 @@
+{
+  "name": "podcast",
+  "version": "1.0.0",
+  "description": "a backend for podcast",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "podcast"
+  ],
+  "author": "sujithra s",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
